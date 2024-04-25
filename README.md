@@ -16,10 +16,11 @@
 
 
 ### ✍️ Quote
->  தெய்வத்தான் ஆகா தெனினும் முயற்சிதன்
-மெய்வருத்தக் கூலி தரும்.
-
-*Thiruvalluvar - wrote in 500 CE*
+<div style="background-color: #F0F8FF; padding: 10px; border-radius: 5px;">
+  <p style="text-align: center; font-style: italic;">தெய்வத்தான் ஆகா தெனினும் முயற்சிதன்
+மெய்வருத்தக் கூலி தரும்.</p>
+  <p style="text-align: right;">*Thiruvalluvar * (- wrote in 500 CE)</p>
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=waran2337&icon=0&color=9)](https://visitcount.itsvg.in)
