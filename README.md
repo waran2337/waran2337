@@ -14,14 +14,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=waran2337&theme=solarized-light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=waran2337&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-### ✍️ Quote
-<div style="background-color: #F0F8FF; padding: 10px; border-radius: 5px;">
-  <p style="text-align: center; font-style: italic;">தெய்வத்தான் ஆகா தெனினும் முயற்சிதன்
-மெய்வருத்தக் கூலி தரும்.</p>
-  <p style="text-align: right;">*Thiruvalluvar * (- wrote in 500 CE)</p>
-</div>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=waran2337&icon=0&color=9)](https://visitcount.itsvg.in)
 
