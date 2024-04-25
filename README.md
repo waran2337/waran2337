@@ -15,8 +15,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=waran2337&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+### ✍️ Quote
+>  தெய்வத்தான் ஆகா தெனினும் முயற்சிதன்
+மெய்வருத்தக் கூலி தரும்.
+
+*Thiruvalluvar - wrote in 500 CE*
 
 ---
 [![](https://visitcount.itsvg.in/api?id=waran2337&icon=0&color=9)](https://visitcount.itsvg.in)
